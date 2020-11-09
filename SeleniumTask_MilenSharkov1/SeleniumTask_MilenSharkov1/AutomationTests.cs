@@ -158,7 +158,7 @@ namespace Tests
         }
 
         [Test]
-        public void PD5_VerifyCorrectTitlePriceAndGift()
+        public void PD5_VerifyCorrectShoppingBasketContents()
         {
             homePage.CategoryDropDownButton.Click();
             homePage.BooksCategoryButton.Click();
